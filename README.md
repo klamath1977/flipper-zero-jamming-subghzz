@@ -2,7 +2,9 @@
 Flipper Zero SubGhz Jamming File
 
 
-###=========================================> READ THIS <=========================================###
+###===========================> READ THIS !!! <===========================###
+###==========================> USE AT YOU RISK <==========================###
+###=============================> Disclamer: <============================###
 
-Disclamer: This file is intended for educational and research purposes by experienced RF users. Ensure compliance with local regulations before using this files.
+This file is intended for educational and research purposes only. Ensure compliance with local regulations before using this files.
 
